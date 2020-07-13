@@ -1,7 +1,8 @@
-# Simple implementation of cache on Node JS using Redis database
+![Redis and Node JS](src/assets/image.png)
+
+# Simple implementation of cache with Node JS and Redis database
 
 This repository is a simple implementation of cache using Node JS and redis database. 
-
 
 ## How to run?
 You must have a redis instance running in the port ``6379`` in your machine, i recommend you to install redis trhough docker.
